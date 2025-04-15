@@ -4,3 +4,5 @@
 # Linea per al commit 3
 
 # Commit per a la nova branca
+
+Edició feta desde GitHub
